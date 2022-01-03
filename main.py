@@ -26,6 +26,7 @@ Dr = ["Dr. Gerald G. White, DDS", "Dr. Gerald G. White, DDS", "Dr. Gerald G. Whi
       "Dr. Shaun Small, DMD", "Dr. Shaun Small, DMD",  "Dr. Shaun Small, DMD",
       "Dr. Shaun Small, DMD", "Dr. Shaun Small, DMD", "Dr. Gerald G. White",
       "Dr. Gerald G. White", "Dr. Forrest Crabtree, DMD", "Dr. Forrest Crabtree, DMD",
+       "Dr. Forrest Crabtree, DMD",
 
 
       ]
@@ -45,6 +46,7 @@ GD_Specialty = ["General Dentist", "General Dentist", "General Dentist",
                 "General Dentist", "General Dentist",  "General Dentist",
                 "General Dentist", "General Dentist", "General Dentist",
                 "General Dentist", "General Dentist", "General Dentist",
+                "General Dentist",
 
                 ]
 
@@ -90,6 +92,7 @@ Date = ["08-31-2020",
         "05-19-2021",
         "12-20-2021",
         "12-23-2021",
+        "01-06-2022",
 
         ]
 
@@ -133,6 +136,7 @@ Hours = ["09:30",
          "3:00",
          "3:00",
          "3:00",
+         "5:00",
          "5:00",
          "5:00",
 
